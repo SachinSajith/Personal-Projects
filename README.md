@@ -1,6 +1,6 @@
-# Personal Data Projects
+# Personal Projects - Sachin Sajith
 
-Welcome to my repository of personal projects showcasing my expertise in data cleaning, preparation, analysis, and visualization. Here, you'll find various projects where I've leveraged the power of SQL, Python, and its popular libraries—pandas, NumPy, and Seabird—alongside Tableau to derive insightful conclusions from diverse datasets.
+Welcome to my repository of personal projects showcasing my work in data cleaning, preparation, analysis, and visualization. Here, you'll find various projects where I've leveraged the power of SQL, Python, and its popular libraries—pandas, NumPy, and Seaborn—alongside Tableau to derive insightful conclusions from diverse datasets.
 
 ## Overview
 
